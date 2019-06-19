@@ -6,7 +6,9 @@
         "node-red-contrib-secret": "0.1.0",
         "node-red-contrib-home-assistant-websocket": "0.12.3",
         "node-red-node-geofence": "0.1.1",
-        "node-red-node-pushover": "0.0.14"
+        "node-red-node-pushover": "0.0.14",
+        "node-red-contrib-influxdb": "0.2.2",
+        "node-red-node-mongodb": "0.0.14"
     },
     "node-red": {
         "settings": {
