@@ -1,7 +1,4 @@
-dev-nodered
-===========
+Simple a repo for my node-red-flows
 
-### About
-
-This is your project's README.md file. It helps users understand what your
-project does, how to use it and anything else they may need to know.
+Master - well tested and production ready for me
+WIP - Work In Progess, allowing me to make changes without affecting last known good code.
