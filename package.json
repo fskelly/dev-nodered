@@ -8,7 +8,10 @@
         "node-red-node-geofence": "0.1.1",
         "node-red-node-pushover": "0.0.14",
         "node-red-contrib-influxdb": "0.2.2",
-        "node-red-node-mongodb": "0.0.14"
+        "node-red-node-mongodb": "0.0.14",
+        "node-red-contrib-bool-gate": "1.0.2",
+        "node-red-contrib-boolean-logic-ultimate": "1.0.7",
+        "node-red-contrib-sonoff-tasmota": "3.0.0"
     },
     "node-red": {
         "settings": {
