@@ -11,7 +11,14 @@
         "node-red-node-mongodb": "0.0.14",
         "node-red-contrib-bool-gate": "1.0.2",
         "node-red-contrib-boolean-logic-ultimate": "1.0.7",
-        "node-red-contrib-sonoff-tasmota": "3.0.0"
+        "node-red-contrib-sonoff-tasmota": "3.0.0",
+        "node-red-contrib-alexa-local": "0.3.24",
+        "node-red-contrib-bigtimer": "2.2.5",
+        "node-red-contrib-eztimer": "1.1.4",
+        "node-red-contrib-hold": "1.0.0",
+        "node-red-contrib-light-scheduler": "0.0.15",
+        "node-red-contrib-tuya-smart": "1.2.0",
+        "node-red-dashboard": "2.17.1"
     },
     "node-red": {
         "settings": {
